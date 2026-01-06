@@ -8,8 +8,8 @@ Search Algorithm Suite is designed to find a number in a list using multiple sea
 
 👥 Team Members:  
 
-Syed Muhammad Taha – 2025-CS-145  
-Muhammad Junaid – 2025-CS-146  
+Syed Muhammad Taha – [https://www.linkedin.com/in/syed-muhammad-taha-39926039b?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app]  
+Muhammad Junaid – [https://www.linkedin.com/in/muhammad-junaid-dhillon-782379385?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app]  
 Course: CSC101 - Discrete Mathematics | Instructor: Mr. Waqas Ali
 
 🚀 Features:  
